@@ -1,6 +1,6 @@
 # Jogo da adivinhação
 
-![Preview](./.github/Preview.png)
+![preview](./.github/Preview.png)
 
 
 Projeto construido na Trilha explorer.
